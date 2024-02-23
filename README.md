@@ -30,6 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
+<!-- Add space between the programming languages images and social media images -->
+<br />
+
 <div align="left">
   <!-- Make the LinkedIn logo a clickable link -->
   <a href="https://www.linkedin.com/in/sachinbaluragi" target="_blank" rel="noopener noreferrer">
